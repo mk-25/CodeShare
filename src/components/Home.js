@@ -120,7 +120,7 @@ function Home() {
       <footer>
         <span>
           {" "}
-          <a href="https://github.com/Abhishekkumar2021/CodeShare">
+          <a href="https://github.com/mk-25/CodeShare">
             {" "}
             <AiFillGithub id="icon" />{" "}
           </a>
